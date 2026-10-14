@@ -1,0 +1,689 @@
+{
+  "version": 1,
+  "license_policy": "CC0-1.0 only",
+  "concert_pitch": true,
+  "instruments": {
+    "grand_piano": {
+      "source": "VCSL",
+      "sourceUrl": "https://versilian-studios.com/vcsl/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "grand_piano/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "grand_piano/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "grand_piano/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "grand_piano/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "grand_piano/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "grand_piano/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "grand_piano/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "grand_piano/85.wav"
+        }
+      ]
+    },
+    "acoustic_piano": {
+      "source": "VCSL",
+      "sourceUrl": "https://versilian-studios.com/vcsl/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "acoustic_piano/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "acoustic_piano/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "acoustic_piano/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "acoustic_piano/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "acoustic_piano/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "acoustic_piano/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "acoustic_piano/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "acoustic_piano/85.wav"
+        }
+      ]
+    },
+    "upright_piano": {
+      "source": "FreePats",
+      "sourceUrl": "https://freepats.zenvoid.org/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "upright_piano/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "upright_piano/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "upright_piano/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "upright_piano/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "upright_piano/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "upright_piano/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "upright_piano/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "upright_piano/85.wav"
+        }
+      ]
+    },
+    "acoustic_guitar": {
+      "source": "FreePats",
+      "sourceUrl": "https://freepats.zenvoid.org/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "acoustic_guitar/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "acoustic_guitar/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "acoustic_guitar/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "acoustic_guitar/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "acoustic_guitar/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "acoustic_guitar/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "acoustic_guitar/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "acoustic_guitar/85.wav"
+        }
+      ]
+    },
+    "clean_guitar": {
+      "source": "Karoryfer",
+      "sourceUrl": "https://shop.karoryfer.com/pages/free-samples",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "clean_guitar/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "clean_guitar/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "clean_guitar/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "clean_guitar/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "clean_guitar/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "clean_guitar/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "clean_guitar/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "clean_guitar/85.wav"
+        }
+      ]
+    },
+    "distorted_guitar": {
+      "source": "Karoryfer",
+      "sourceUrl": "https://shop.karoryfer.com/pages/free-samples",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "distorted_guitar/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "distorted_guitar/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "distorted_guitar/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "distorted_guitar/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "distorted_guitar/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "distorted_guitar/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "distorted_guitar/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "distorted_guitar/85.wav"
+        }
+      ]
+    },
+    "electric_bass": {
+      "source": "Karoryfer",
+      "sourceUrl": "https://shop.karoryfer.com/pages/free-samples",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "electric_bass/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "electric_bass/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "electric_bass/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "electric_bass/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "electric_bass/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "electric_bass/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "electric_bass/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "electric_bass/85.wav"
+        }
+      ]
+    },
+    "brass_section": {
+      "source": "VSCO2 Community Edition",
+      "sourceUrl": "https://versilian-studios.com/vsco-community/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "brass_section/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "brass_section/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "brass_section/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "brass_section/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "brass_section/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "brass_section/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "brass_section/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "brass_section/85.wav"
+        }
+      ]
+    },
+    "trumpet": {
+      "source": "VSCO2 Community Edition",
+      "sourceUrl": "https://versilian-studios.com/vsco-community/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "trumpet/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "trumpet/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "trumpet/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "trumpet/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "trumpet/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "trumpet/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "trumpet/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "trumpet/85.wav"
+        }
+      ]
+    },
+    "trombone": {
+      "source": "VSCO2 Community Edition",
+      "sourceUrl": "https://versilian-studios.com/vsco-community/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "trombone/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "trombone/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "trombone/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "trombone/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "trombone/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "trombone/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "trombone/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "trombone/85.wav"
+        }
+      ]
+    },
+    "violin": {
+      "source": "VSCO2 Community Edition",
+      "sourceUrl": "https://versilian-studios.com/vsco-community/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "violin/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "violin/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "violin/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "violin/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "violin/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "violin/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "violin/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "violin/85.wav"
+        }
+      ]
+    },
+    "cello": {
+      "source": "Karoryfer",
+      "sourceUrl": "https://shop.karoryfer.com/pages/free-samples",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "cello/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "cello/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "cello/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "cello/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "cello/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "cello/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "cello/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "cello/85.wav"
+        }
+      ]
+    },
+    "string_ensemble": {
+      "source": "VSCO2 Community Edition",
+      "sourceUrl": "https://versilian-studios.com/vsco-community/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "string_ensemble/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "string_ensemble/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "string_ensemble/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "string_ensemble/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "string_ensemble/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "string_ensemble/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "string_ensemble/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "string_ensemble/85.wav"
+        }
+      ]
+    },
+    "flute": {
+      "source": "VSCO2 Community Edition",
+      "sourceUrl": "https://versilian-studios.com/vsco-community/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "flute/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "flute/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "flute/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "flute/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "flute/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "flute/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "flute/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "flute/85.wav"
+        }
+      ]
+    },
+    "clarinet": {
+      "source": "VSCO2 Community Edition",
+      "sourceUrl": "https://versilian-studios.com/vsco-community/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "clarinet/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "clarinet/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "clarinet/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "clarinet/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "clarinet/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "clarinet/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "clarinet/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "clarinet/85.wav"
+        }
+      ]
+    },
+    "mallet": {
+      "source": "VCSL",
+      "sourceUrl": "https://versilian-studios.com/vcsl/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "mallet/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "mallet/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "mallet/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "mallet/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "mallet/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "mallet/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "mallet/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "mallet/85.wav"
+        }
+      ]
+    },
+    "percussion": {
+      "source": "FreePats",
+      "sourceUrl": "https://freepats.zenvoid.org/",
+      "gain": 1.0,
+      "status": "pending-ingest",
+      "notes": [
+        {
+          "midi": 36,
+          "file": "percussion/36.wav"
+        },
+        {
+          "midi": 43,
+          "file": "percussion/43.wav"
+        },
+        {
+          "midi": 50,
+          "file": "percussion/50.wav"
+        },
+        {
+          "midi": 57,
+          "file": "percussion/57.wav"
+        },
+        {
+          "midi": 64,
+          "file": "percussion/64.wav"
+        },
+        {
+          "midi": 71,
+          "file": "percussion/71.wav"
+        },
+        {
+          "midi": 78,
+          "file": "percussion/78.wav"
+        },
+        {
+          "midi": 85,
+          "file": "percussion/85.wav"
+        }
+      ]
+    }
+  },
+  "release": "earth-v1-staging",
+  "warehouse": "github-release-assets"
+}
